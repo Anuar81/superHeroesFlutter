@@ -1,8 +1,8 @@
 # flutter_sh_test
 
-test de api call a marvel super heroes
-se usa mvvm para la vista con clean para el resto
-riverpod para estados y di
+- test de api call a marvel super heroes
+- se usa mvvm para la vista con clean para el resto
+- riverpod para estados y di
 
 ## Getting Started
 
